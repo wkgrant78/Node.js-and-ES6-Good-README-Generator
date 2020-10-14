@@ -1,0 +1,23 @@
+{
+  "name": "node.js-and-es6-good-readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wkgrant78/Node.js-and-ES6-Good-README-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wkgrant78/Node.js-and-ES6-Good-README-Generator/issues"
+  },
+  "homepage": "https://github.com/wkgrant78/Node.js-and-ES6-Good-README-Generator#readme"
+}
