@@ -64,7 +64,8 @@ inquirer.prompt(questions).then(answer => {
     console.log(answer)
     const data = `
 
-    ${answer.badge}
+# ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/${answer.badge}?style=flat&logo=appveyor)
+
 
 # TITLE: ${answer.title}
 

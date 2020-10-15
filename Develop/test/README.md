@@ -1,26 +1,27 @@
 
 
-    ![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome?style=plastic)
+# ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome?style=plastic)?style=flat&logo=appveyor)
 
-# TITLE: WTF
+
+# TITLE: wtf
 
 ## DESCRIPTION: 
-try to figure out wtf I'm doing
+try to figure out wtf is going on
 
 ## INSTALLATION: 
-I have no idea
+have no idea
 
 ## USAGE:
-use however you'd like to - doubt if it works
+however you'd like
 
 ## LICENSE:
-MIT License
+GNU AGPLv3
 
 ## CONTRIBUTING:
-uuhhh, yeah....
+please contribute
 
 ## TEST:
-test? don't even know what that's referring to
+test? who knows
 
 ## GITHUB USERNAME:
 wkgrant78
