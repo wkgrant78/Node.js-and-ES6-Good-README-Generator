@@ -19,12 +19,12 @@ const questions = [
     },
     {
         type: "input",
-        name: "decription",
+        name: "description",
         message: "Enter project desciption here:"
     },
     {
         type: "input",
-        name: "insallation",
+        name: "installation",
         message: "Provide installation instructions here:"
     },
     {
@@ -63,10 +63,10 @@ const questions = [
 inquirer.prompt(questions).then(answer => {
     console.log(answer)
     const data = `
-# TITLE: ${answer.title}
 
-## BADGE: 
-${answer.badge}
+    ${answer.badge}
+
+# TITLE: ${answer.title}
 
 ## DESCRIPTION: 
 ${answer.description}

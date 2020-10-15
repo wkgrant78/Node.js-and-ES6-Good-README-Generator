@@ -1,26 +1,26 @@
 
-# TITLE: are you going to work
 
-## BADGE: 
-![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome?style=plastic)
+    ![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome?style=plastic)
+
+# TITLE: WTF
 
 ## DESCRIPTION: 
-undefined
+try to figure out wtf I'm doing
 
 ## INSTALLATION: 
-undefined
+I have no idea
 
 ## USAGE:
-again... no idea
+use however you'd like to - doubt if it works
 
 ## LICENSE:
-Mozilla Public License 2.0
+MIT License
 
 ## CONTRIBUTING:
-not sure what that means
+uuhhh, yeah....
 
 ## TEST:
-how ever you want to test it is fine with me
+test? don't even know what that's referring to
 
 ## GITHUB USERNAME:
 wkgrant78
