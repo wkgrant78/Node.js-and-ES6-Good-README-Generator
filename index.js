@@ -1,7 +1,9 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-const axios = require("axios");
-const generate = require('.utils/generateMarkdown');
+const util = require('util');
+
+const api = require('./Develop/utils/api.js');
+const generate = require('./Develop/utils/generateMarkdown');
 
 // README question array
 const questions = [
@@ -84,9 +86,6 @@ inquirer.prompt(questions).then(answer => {
 `
 
 
-    fs.writeFileSync("utils/README.md", data)
+    fs.writeFileSync("./Develop/test/README.md", data)
+
 })
-
-
-
-
