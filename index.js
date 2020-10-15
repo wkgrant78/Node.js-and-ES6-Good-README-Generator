@@ -63,9 +63,9 @@ const questions = [
 inquirer.prompt(questions).then(answer => {
     console.log(answer)
     const data = `
-# ${answer.title}
+# TITLE: ${answer.title}
 
-## ${answer.badge}
+## BADGE: ${answer.badge}
 
 ## ${answer.description}
 
