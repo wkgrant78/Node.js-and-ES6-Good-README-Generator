@@ -2,28 +2,38 @@
 
 ![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome?style=plastic)
 
-# TITLE: Testing
+# TITLE: Try again
 
 ## DESCRIPTION: 
-readme generator
+trying to figure this out
+
+## TABLE OF CONTENTS:
+    ..* [INSTALLATION](#installation);
+    ..* [USAGE](#usage);
+    ..* [LICENSE](#license);
+    ..* [USAGE](#usage);
+    ..* [CONTRIBUTING](#contributing);
+    ..* [TEST](#test);
+    ..* [GITHUB](#username);
+
 
 ## INSTALLATION: 
-son't know
+never going to happen
 
 ## USAGE:
-help with readme
+not useful... yet
 
 ## LICENSE:
 GNU AGPLv3
 
 ## CONTRIBUTING:
-please help
+please contribute
 
 ## TEST:
-not sure about this one
+test away
 
 ## GITHUB USERNAME:
-wkgrant78
+wkgrant
 
 ## GITHUB URL:
 git

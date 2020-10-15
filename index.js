@@ -4,6 +4,7 @@ const util = require('util');
 
 const api = require('./Develop/utils/api.js');
 const generate = require('./Develop/utils/generateMarkdown');
+const generateMarkdown = require("./Develop/utils/generateMarkdown");
 
 // README question array
 const questions = [
@@ -71,6 +72,16 @@ ${answer.badge}
 ## DESCRIPTION: 
 ${answer.description}
 
+## TABLE OF CONTENTS:
+    ..* [INSTALLATION](#installation);
+    ..* [USAGE](#usage);
+    ..* [LICENSE](#license);
+    ..* [USAGE](#usage);
+    ..* [CONTRIBUTING](#contributing);
+    ..* [TEST](#test);
+    ..* [GITHUB](#username);
+
+
 ## INSTALLATION: 
 ${answer.installation}
 
@@ -93,7 +104,6 @@ ${answer.username}
 ${answer.gitURL}
 
 `
-
 
     fs.writeFileSync("./Develop/test/README.md", data)
 
