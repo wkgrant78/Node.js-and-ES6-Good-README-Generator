@@ -1,27 +1,26 @@
 
 
-# ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome?style=plastic)?style=flat&logo=appveyor)
+![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome?style=plastic)
 
-
-# TITLE: wtf
+# TITLE: Testing
 
 ## DESCRIPTION: 
-try to figure out wtf is going on
+readme generator
 
 ## INSTALLATION: 
-have no idea
+son't know
 
 ## USAGE:
-however you'd like
+help with readme
 
 ## LICENSE:
 GNU AGPLv3
 
 ## CONTRIBUTING:
-please contribute
+please help
 
 ## TEST:
-test? who knows
+not sure about this one
 
 ## GITHUB USERNAME:
 wkgrant78
