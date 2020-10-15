@@ -65,23 +65,32 @@ inquirer.prompt(questions).then(answer => {
     const data = `
 # TITLE: ${answer.title}
 
-## BADGE: ${answer.badge}
+## BADGE: 
+${answer.badge}
 
-## ${answer.description}
+## DESCRIPTION: 
+${answer.description}
 
-## ${answer.installation}
+## INSTALLATION: 
+${answer.installation}
 
-## ${answer.usage}
+## USAGE:
+${answer.usage}
 
-## ${answer.license}
+## LICENSE:
+${answer.license}
 
-## ${answer.contributing}
+## CONTRIBUTING:
+${answer.contributing}
 
-## ${answer.test}
+## TEST:
+${answer.test}
 
-## ${answer.username}
+## GITHUB USERNAME:
+${answer.username}
 
-## ${answer.gitURL}
+## GITHUB URL:
+${answer.gitURL}
 
 `
 

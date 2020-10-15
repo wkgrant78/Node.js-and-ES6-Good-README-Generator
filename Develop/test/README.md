@@ -1,21 +1,30 @@
 
-# TITLE: wtf
+# TITLE: are you going to work
 
-## BADGE: dsfd
+## BADGE: 
+![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome?style=plastic)
 
-## undefined
+## DESCRIPTION: 
+undefined
 
-## undefined
+## INSTALLATION: 
+undefined
 
-## zdfgdzf
+## USAGE:
+again... no idea
 
-## GNU AGPLv3
+## LICENSE:
+Mozilla Public License 2.0
 
-## zdgdf
+## CONTRIBUTING:
+not sure what that means
 
-## zdfg
+## TEST:
+how ever you want to test it is fine with me
 
-## zdfg
+## GITHUB USERNAME:
+wkgrant78
 
-## zdfg
+## GITHUB URL:
+git
 
