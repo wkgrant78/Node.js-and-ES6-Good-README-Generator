@@ -1,32 +1,37 @@
 
 
-zdfgzdfgtza
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]
 
-# TITLE: dzfgzfg
+# TITLE: this is fucking stupid
 
 ## DESCRIPTION: 
-srthysty
+it fucking sucks
 
 ## TABLE OF CONTENTS:
-toc('## DESCRIPTION##USAGE##LICENSE').content
+    *INSTALLATION
+    *USAGE
+    *LICENSE
+    *CONTRIBUTION
+    *TEST
+    *QUESTIONS
 
 ## INSTALLATION: 
-ftgxhgh
+don't bother
 
 ## USAGE:
-rfxghsrth
+whatevr
 
 ## LICENSE:
-GNU AGPLv3
+GNU GPLv3
 
 ## CONTRIBUTING:
-rtysrtyr
+blahblahblah
 
 ## TEST:
-srtyurtu
+dfg
 
 ## QUESTIONS:
-    GitHub username: srty
-    GitHub URL: rsyu
-    Personal email: dfyjj
+    GitHub username: dg
+    GitHub URL: dfgh
+    Personal email: dh
 
