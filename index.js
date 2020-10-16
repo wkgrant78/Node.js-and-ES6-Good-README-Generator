@@ -2,7 +2,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require('util');
 
-const toc = require("markdown-toc");
+
 const generate = require('./Develop/utils/generateMarkdown');
 const generateMarkdown = require("./Develop/utils/generateMarkdown");
 
