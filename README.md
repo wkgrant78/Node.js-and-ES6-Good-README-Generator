@@ -41,7 +41,7 @@ SO THAT can quickly create a professional README for a new project
 
 ### WALKTHROUGH VIDEO:
 
-![](walkthrough.gif)
+![](./Develop/walkthrough.gif)
 
 ### GITHUB REPO URL:
 
