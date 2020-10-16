@@ -1,40 +1,32 @@
 
 
-![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome?style=plastic)
+https://img.shields.io/badge/${answers.licence}-v1.0-green
 
-# TITLE: Try again
+# TITLE: Take 52...
 
 ## DESCRIPTION: 
-trying to figure this out
+A hopeless wish that this will actually work
 
 ## TABLE OF CONTENTS:
-    ..* [INSTALLATION](#installation);
-    ..* [USAGE](#usage);
-    ..* [LICENSE](#license);
-    ..* [USAGE](#usage);
-    ..* [CONTRIBUTING](#contributing);
-    ..* [TEST](#test);
-    ..* [GITHUB](#username);
-
 
 ## INSTALLATION: 
-never going to happen
+oh please...
 
 ## USAGE:
-not useful... yet
+better ask someone else, I have no idea
 
 ## LICENSE:
 GNU AGPLv3
 
 ## CONTRIBUTING:
-please contribute
+uuummmmm.... who would want to contribute to this
 
 ## TEST:
-test away
+basically every test has failed so far
 
 ## GITHUB USERNAME:
-wkgrant
+hopeless
 
 ## GITHUB URL:
-git
+https://github.com/wkgrant78/Node.js-and-ES6-Good-README-Generator
 
