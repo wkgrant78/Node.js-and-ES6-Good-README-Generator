@@ -1,11 +1,11 @@
 
 
-zdfgzdf
+zdfgfg
 
-# TITLE: fdgdfg
+# TITLE: vgfdgff
 
 ## DESCRIPTION: 
-zdfgzfg
+zdfgzdf
 
 ## TABLE OF CONTENTS:
 function toc(str, options) {
@@ -15,7 +15,7 @@ function toc(str, options) {
 }
 
 ## INSTALLATION: 
-zdfgzdg
+zdfgzdf
 
 ## USAGE:
 zdfgzdfg
@@ -24,13 +24,13 @@ zdfgzdfg
 GNU AGPLv3
 
 ## CONTRIBUTING:
-zdfgzdf
+zdfgzdfg
 
 ## TEST:
-zdfgzd
+zdfgzdf
 
 ## QUESTIONS:
-    GitHub username: zdfgzdfg
-    GitHub URL: zdfgzdfg
+    GitHub username: zdfgzdf
+    GitHub URL: zdfgzdf
     Personal email: zdfgzdf
 

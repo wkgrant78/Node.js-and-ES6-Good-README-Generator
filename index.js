@@ -106,4 +106,10 @@ ${answer.test}
 
     fs.writeFileSync("./Develop/test/README.md", data)
 
+    let str = fs.readFileSync("./Develop/test/README.md", data)
+
+    var table = toc(str);
+    fs.writeFileSync("./Develop/test/README.md", table)
+
+    
 })
