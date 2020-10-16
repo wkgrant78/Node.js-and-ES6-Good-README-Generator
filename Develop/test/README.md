@@ -1,11 +1,11 @@
 
 
-zdfggh
+zdfgzdf
 
-# TITLE: dzfgf
+# TITLE: fdgdfg
 
 ## DESCRIPTION: 
-zdfghzdfgh
+zdfgzfg
 
 ## TABLE OF CONTENTS:
 function toc(str, options) {
@@ -15,22 +15,22 @@ function toc(str, options) {
 }
 
 ## INSTALLATION: 
-zdfghxfh
+zdfgzdg
 
 ## USAGE:
-zdfhgzfgh
+zdfgzdfg
 
 ## LICENSE:
-GNU LGPLv3
+GNU AGPLv3
 
 ## CONTRIBUTING:
-zdhzdgfh
+zdfgzdf
 
 ## TEST:
-zdfghzfdgh
+zdfgzd
 
 ## QUESTIONS:
-    GitHub username: zhfghzfg
-    GitHub URL: fghfg
-    Personal email: xfghxfgh
+    GitHub username: zdfgzdfg
+    GitHub URL: zdfgzdfg
+    Personal email: zdfgzdf
 

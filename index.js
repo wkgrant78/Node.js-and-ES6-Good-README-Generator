@@ -66,7 +66,7 @@ const questions = [
     },
 ]
 
-toc('## DESCRIPTION\n\n## USAGE\n\n## LICENSE').content
+toc('## DESCRIPTION\n\n## USAGE\n\n## LICENSE')
 
 inquirer.prompt(questions).then(answer => {
     console.log(answer)
