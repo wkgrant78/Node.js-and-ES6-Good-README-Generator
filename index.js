@@ -66,7 +66,7 @@ const questions = [
     },
 ]
 
-toc('## DESCRIPTION\## USAGE\## LICENSE').content
+toc('## DESCRIPTION\n\n## USAGE\n\n## LICENSE').content
 
 inquirer.prompt(questions).then(answer => {
     console.log(answer)
@@ -80,12 +80,7 @@ ${answer.badge}
 ${answer.description}
 
 ## TABLE OF CONTENTS:
-    *INSTALLATION
-    *USAGE
-    *LICENSE
-    *CONTRIBUTION
-    *TEST
-    *QUESTIONS
+${toc}
 
 ## INSTALLATION: 
 ${answer.installation}

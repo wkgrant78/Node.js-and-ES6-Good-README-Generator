@@ -1,37 +1,36 @@
 
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]
+zdfggh
 
-# TITLE: this is fucking stupid
+# TITLE: dzfgf
 
 ## DESCRIPTION: 
-it fucking sucks
+zdfghzdfgh
 
 ## TABLE OF CONTENTS:
-    *INSTALLATION
-    *USAGE
-    *LICENSE
-    *CONTRIBUTION
-    *TEST
-    *QUESTIONS
+function toc(str, options) {
+  return new utils.Remarkable()
+    .use(generate(options))
+    .render(str);
+}
 
 ## INSTALLATION: 
-don't bother
+zdfghxfh
 
 ## USAGE:
-whatevr
+zdfhgzfgh
 
 ## LICENSE:
-GNU GPLv3
+GNU LGPLv3
 
 ## CONTRIBUTING:
-blahblahblah
+zdhzdgfh
 
 ## TEST:
-dfg
+zdfghzfdgh
 
 ## QUESTIONS:
-    GitHub username: dg
-    GitHub URL: dfgh
-    Personal email: dh
+    GitHub username: zhfghzfg
+    GitHub URL: fghfg
+    Personal email: xfghxfgh
 
