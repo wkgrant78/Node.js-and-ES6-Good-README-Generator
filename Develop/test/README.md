@@ -1,36 +1,32 @@
 
 
-zdfgfg
+fdg
 
-# TITLE: vgfdgff
+# TITLE: gfd
 
 ## DESCRIPTION: 
-zdfgzdf
+fdg
 
 ## TABLE OF CONTENTS:
-function toc(str, options) {
-  return new utils.Remarkable()
-    .use(generate(options))
-    .render(str);
-}
+undefined
 
 ## INSTALLATION: 
-zdfgzdf
+dg
 
 ## USAGE:
-zdfgzdfg
+dsf
 
 ## LICENSE:
 GNU AGPLv3
 
 ## CONTRIBUTING:
-zdfgzdfg
+sdf
 
 ## TEST:
-zdfgzdf
+sdf
 
 ## QUESTIONS:
-    GitHub username: zdfgzdf
-    GitHub URL: zdfgzdf
-    Personal email: zdfgzdf
+    GitHub username: sfd
+    GitHub URL: gfd
+    Personal email: gf
 
