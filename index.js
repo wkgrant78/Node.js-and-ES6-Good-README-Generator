@@ -110,7 +110,7 @@ ${answer.test}
 
 `
 
-    fs.writeFileSync("./Develop/test/README.md", data)
+    fs.writeFileSync("./Develop/exampleREADME.md", data)
 
     
 })
