@@ -39,11 +39,15 @@ SO THAT can quickly create a professional README for a new project
 * Include a video of the typical user flow through your application. This includes views of the prompts and the responses after their selection.
 * Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. 
 
+### WALKTHROUGH VIDEO:
+
+![](walkthrough.gif)
+
 ### GITHUB REPO URL:
 
 https://github.com/wkgrant78/Node.js-and-ES6-Good-README-Generator
 
 ### DEMO URL:
 
-<iframe src="https://drive.google.com/file/d/1DLYQPXlGgi_GBg5-DJYyBx9MISScKA06/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1DLYQPXlGgi_GBg5-DJYyBx9MISScKA06/preview
 
