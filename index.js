@@ -73,14 +73,6 @@ ${answer.badge}
 ${answer.description}
 
 ## TABLE OF CONTENTS:
-    ..* [INSTALLATION](#installation);
-    ..* [USAGE](#usage);
-    ..* [LICENSE](#license);
-    ..* [USAGE](#usage);
-    ..* [CONTRIBUTING](#contributing);
-    ..* [TEST](#test);
-    ..* [GITHUB](#username);
-
 
 ## INSTALLATION: 
 ${answer.installation}
