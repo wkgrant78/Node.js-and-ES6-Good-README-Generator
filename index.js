@@ -80,7 +80,13 @@ ${answer.badge}
 ${answer.description}
 
 ## TABLE OF CONTENTS:
-${table}
+* [INSTALLATION](## INSTALLATION:)
+* [USAGE](#usage);
+* [LICENSE](#license);
+* [USAGE](#usage);
+* [CONTRIBUTING](#contributing);
+* [TEST](#test);
+* [GITHUB]$(#username);
 
 ## INSTALLATION: 
 ${answer.installation}
@@ -105,11 +111,6 @@ ${answer.test}
 `
 
     fs.writeFileSync("./Develop/test/README.md", data)
-
-    let str = fs.readFileSync("./Develop/test/README.md", data)
-
-    var table = toc(str);
-    fs.writeFileSync("./Develop/test/README.md", table)
 
     
 })
