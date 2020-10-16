@@ -11,27 +11,27 @@ const questions = [
     {
         type: "input",
         name: "title",
-        message: "Enter project title here:"
+        message: "Enter project title:"
     },
     {
         type: "input",
         name: "badge",
-        message: "Provide the badge links you want included here: "
+        message: "Provide the badge links you want included: "
     },
     {
         type: "input",
         name: "description",
-        message: "Enter project desciption here:"
+        message: "Enter project desciption:"
     },
     {
         type: "input",
         name: "installation",
-        message: "Provide installation instructions here:"
+        message: "Provide installation instructions:"
     },
     {
         type: "input",
         name: "usage",
-        message: "Provide usage information here:"
+        message: "Provide usage information:"
     },
     {
         type: "list",
@@ -42,22 +42,27 @@ const questions = [
     {
         type: "input",
         name: "contributing",
-        message: "Provide contributing guidelines here:"
+        message: "Provide contributing guidelines:"
     },
     {
         type: "input",
         name: "test",
-        message: "Provide project test instructions here:"
+        message: "Provide project test instructions:"
     },
     {
         type: "input",
         name: "username",
-        message: "Enter GitHub username here:"
+        message: "Enter GitHub username:"
     },
     {
         type: "input",
         name: "gitURL",
-        message: "Provide GitHub URL here:"
+        message: "Enter your GitHub URL:"
+    },
+    {
+        type: "input",
+        name: "email",
+        message: "Provide personal email:"
     },
 ]
 
@@ -89,11 +94,10 @@ ${answer.contributing}
 ## TEST:
 ${answer.test}
 
-## GITHUB USERNAME:
-${answer.username}
-
-## GITHUB URL:
-${answer.gitURL}
+## QUESTIONS:
+    GitHub username: ${answer.username}
+    GitHub URL: ${answer.gitURL}
+    Personal email: ${answer.email}
 
 `
 

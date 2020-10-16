@@ -1,32 +1,31 @@
 
 
-https://img.shields.io/badge/${answers.licence}-v1.0-green
+![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome?style=plastic)
 
-# TITLE: Take 52...
+# TITLE: Why are you doing this to yourself?
 
 ## DESCRIPTION: 
-A hopeless wish that this will actually work
+A waste of time.... I'll never figure this out
 
 ## TABLE OF CONTENTS:
 
 ## INSTALLATION: 
-oh please...
+again, oooohhh please
 
 ## USAGE:
-better ask someone else, I have no idea
+why are you asking me, no one will ever use this
 
 ## LICENSE:
 GNU AGPLv3
 
 ## CONTRIBUTING:
-uuummmmm.... who would want to contribute to this
+I can barely contribute, don't waste your time
 
 ## TEST:
-basically every test has failed so far
+yep, tests still failing
 
-## GITHUB USERNAME:
-hopeless
-
-## GITHUB URL:
-https://github.com/wkgrant78/Node.js-and-ES6-Good-README-Generator
+## QUESTIONS:
+    GitHub username: whywhywhy
+    GitHub URL: whatever
+    Personal email: giveup@noncoder.com
 
