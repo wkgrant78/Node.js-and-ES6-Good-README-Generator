@@ -80,13 +80,13 @@ ${answer.badge}
 ${answer.description}
 
 ## TABLE OF CONTENTS:
-* [INSTALLATION](## INSTALLATION:)
-* [USAGE](#usage);
-* [LICENSE](#license);
-* [USAGE](#usage);
-* [CONTRIBUTING](#contributing);
-* [TEST](#test);
-* [GITHUB]$(#username);
+* [INSTALLATION](#installation)
+* [USAGE](#usage)
+* [LICENSE](#license)
+* [USAGE](#usage)
+* [CONTRIBUTING](#contributing)
+* [TEST](#test)
+* [QUESTIONS](#username)
 
 ## INSTALLATION: 
 ${answer.installation}

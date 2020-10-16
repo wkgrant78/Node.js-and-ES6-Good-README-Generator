@@ -1,38 +1,38 @@
 
 
-hgf
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]
 
-# TITLE: sdf
+# TITLE: omfg
 
 ## DESCRIPTION: 
-gfh
+stresssss
 
 ## TABLE OF CONTENTS:
-* [INSTALLATION](## INSTALLATION:)
-* [USAGE](#usage);
-* [LICENSE](#license);
-* [USAGE](#usage);
-* [CONTRIBUTING](#contributing);
-* [TEST](#test);
-* [GITHUB]$(#username);
+* [INSTALLATION](#installation)
+* [USAGE](#usage)
+* [LICENSE](#license)
+* [USAGE](#usage)
+* [CONTRIBUTING](#contributing)
+* [TEST](#test)
+* [QUESTIONS](#username)
 
 ## INSTALLATION: 
-fgh
+no point
 
 ## USAGE:
-fgh
+whatever
 
 ## LICENSE:
-GNU AGPLv3
+GNU LGPLv3
 
 ## CONTRIBUTING:
-fgh
+my sweet sweet bf being so supportive <3
 
 ## TEST:
-fgh
+this is it
 
 ## QUESTIONS:
-    GitHub username: fgh
-    GitHub URL: fgh
-    Personal email: fgh
+    GitHub username: yuck
+    GitHub URL: dk
+    Personal email: 
 
