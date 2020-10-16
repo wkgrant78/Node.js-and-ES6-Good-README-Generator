@@ -2,7 +2,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require('util');
 
-const api = require('./Develop/utils/api.js');
+const toc = require("markdown-toc");
 const generate = require('./Develop/utils/generateMarkdown');
 const generateMarkdown = require("./Develop/utils/generateMarkdown");
 
@@ -66,6 +66,8 @@ const questions = [
     },
 ]
 
+toc('## DESCRIPTION\##USAGE\##LICENSE').content
+
 inquirer.prompt(questions).then(answer => {
     console.log(answer)
     const data = `
@@ -78,6 +80,7 @@ ${answer.badge}
 ${answer.description}
 
 ## TABLE OF CONTENTS:
+toc('## DESCRIPTION\##USAGE\##LICENSE').content
 
 ## INSTALLATION: 
 ${answer.installation}

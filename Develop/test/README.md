@@ -1,31 +1,32 @@
 
 
-![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome?style=plastic)
+zdfgzdfgtza
 
-# TITLE: Why are you doing this to yourself?
+# TITLE: dzfgzfg
 
 ## DESCRIPTION: 
-A waste of time.... I'll never figure this out
+srthysty
 
 ## TABLE OF CONTENTS:
+toc('## DESCRIPTION##USAGE##LICENSE').content
 
 ## INSTALLATION: 
-again, oooohhh please
+ftgxhgh
 
 ## USAGE:
-why are you asking me, no one will ever use this
+rfxghsrth
 
 ## LICENSE:
 GNU AGPLv3
 
 ## CONTRIBUTING:
-I can barely contribute, don't waste your time
+rtysrtyr
 
 ## TEST:
-yep, tests still failing
+srtyurtu
 
 ## QUESTIONS:
-    GitHub username: whywhywhy
-    GitHub URL: whatever
-    Personal email: giveup@noncoder.com
+    GitHub username: srty
+    GitHub URL: rsyu
+    Personal email: dfyjj
 
