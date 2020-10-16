@@ -1,7 +1,7 @@
 # Node.js-and-ES6-Good-README-Generator
 
 ### PROJECT DESCRIPTION
-Create a CL app that dynamically generates a professional README.md from a user's input using the Inquirer package and meets the Good README and professinal criteria. The appl will be invoked with node index.js. A link to a gif of
+Create a CL app that dynamically generates a professional README.md from a user's input using the Inquirer package and meets the Good README and professional criteria. The app will be invoked with node index.js. A link to a gif of
 Because this is a command-line application that won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates the functionality of your application. Revisit the Screencastify Tutorial in the prework as a refresher on how to record video from your computer.
 
 ### USER STORE
@@ -42,3 +42,8 @@ SO THAT can quickly create a professional README for a new project
 ### GITHUB REPO URL:
 
 https://github.com/wkgrant78/Node.js-and-ES6-Good-README-Generator
+
+### DEMO URL:
+
+<iframe src="https://drive.google.com/file/d/1DLYQPXlGgi_GBg5-DJYyBx9MISScKA06/preview" width="640" height="480"></iframe>
+

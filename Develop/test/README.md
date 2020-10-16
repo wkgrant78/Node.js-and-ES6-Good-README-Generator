@@ -1,11 +1,11 @@
 
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
-# TITLE: omfg
+# TITLE: README.md Generator
 
 ## DESCRIPTION: 
-stresssss
+Create a CL app that dynamically generates a professional README.md from a user's input using the Inquirer package and meets the Good README and professional criteria. The app will be invoked with node index.js
 
 ## TABLE OF CONTENTS:
 * [INSTALLATION](#installation)
@@ -17,22 +17,22 @@ stresssss
 * [QUESTIONS](#username)
 
 ## INSTALLATION: 
-no point
+Installation instructions will vary with every project and instructions will be provided by the user.
 
 ## USAGE:
-whatever
+Usage is dependent on the project and will vary. Specifics will be defined by the user.
 
 ## LICENSE:
-GNU LGPLv3
+MIT License
 
 ## CONTRIBUTING:
-my sweet sweet bf being so supportive <3
+Contributing parties will be added as needed.
 
 ## TEST:
-this is it
+Testing details will be provided by the user according to the project.
 
 ## QUESTIONS:
-    GitHub username: yuck
-    GitHub URL: dk
-    Personal email: 
+    GitHub username: wkgrant78
+    GitHub URL: https://github.com/wkgrant78
+    Personal email: WendyKGrant.TX@gmail.com
 
